@@ -73,6 +73,6 @@ public class MiniStatement extends JFrame {
   }
 
   public static void main(String[] args) {
-    new MiniStatement("1234"); // test pin
+    new MiniStatement("1234");
   }
 }
